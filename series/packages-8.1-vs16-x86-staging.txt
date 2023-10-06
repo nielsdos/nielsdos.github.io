@@ -1,0 +1,2 @@
+openssl-3.0.11-vs16-x86.zip
+zlib-1.3-vs16-x86.zip
