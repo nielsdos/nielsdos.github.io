@@ -5,3 +5,4 @@ libssh2-1.11.0-vs16-x86.zip
 libzstd-v1.5.5-vs16-x86.zip
 libiconv-1.16-5-vs16-x86.zip
 libxml2-2.11.5-vs16-x86.zip
+libxslt-1.1.38-vs16-x86.zip
