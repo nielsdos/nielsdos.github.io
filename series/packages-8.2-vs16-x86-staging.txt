@@ -2,7 +2,7 @@ libiconv-1.16-5-vs16-x86.zip
 libxml2-2.11.5-vs16-x86.zip
 libxslt-1.1.38-vs16-x86.zip
 openssl-3.0.11-vs16-x86.zip
-nghttp2-1.57.0-vs16-x86.zip
+nghttp2-1.58.0-vs16-x86.zip
 libssh2-1.10.0-2-vs16-x86.zip
 zlib-1.2.12-vs16-x86.zip
 libcurl-8.4.0-2-vs16-x86.zip
