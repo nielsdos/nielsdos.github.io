@@ -5,4 +5,4 @@ openssl-3.0.11-vs16-x64.zip
 nghttp2-1.59.0-vs16-x64.zip
 libssh2-1.10.0-2-vs16-x64.zip
 zlib-1.2.12-vs16-x64.zip
-libcurl-8.5.0-2-vs16-x64.zip
+libcurl-8.6.0-2-vs16-x64.zip
