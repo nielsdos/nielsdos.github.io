@@ -6,3 +6,4 @@ nghttp2-1.59.0-vs16-x64.zip
 libssh2-1.10.0-2-vs16-x64.zip
 zlib-1.2.12-vs16-x64.zip
 libcurl-8.6.0-2-vs16-x64.zip
+libxml2-2.11.7-vs16-x64.zip
