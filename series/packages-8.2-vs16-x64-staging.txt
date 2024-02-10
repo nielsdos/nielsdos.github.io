@@ -1,5 +1,5 @@
 libiconv-1.16-5-vs16-x64.zip
-libxslt-1.1.38-vs16-x64.zip
+libxslt-1.1.39-vs16-x64.zip
 openssl-3.0.11-vs16-x64.zip
 nghttp2-1.59.0-vs16-x64.zip
 libssh2-1.10.0-2-vs16-x64.zip
